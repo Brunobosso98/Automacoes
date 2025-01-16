@@ -1,0 +1,1 @@
+Repositório destina a automações.
