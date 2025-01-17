@@ -1,1 +1,1 @@
-Repositório destina a automações.
+Repositório destina a automações utilizando python.
