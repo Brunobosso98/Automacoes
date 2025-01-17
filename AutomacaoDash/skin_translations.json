@@ -1,0 +1,56 @@
+{
+  "statstrak": {
+    "statstracker": {
+      "StatTrak™ ": "StatTrak\u2122 "
+    },
+    "M4A4": {
+      "Imperador": "Emperor",
+      "Radiação": "Radiation Hazard",
+      "Dragão Rei": "Dragon King",
+      "Neo-Noir": "Neo-Noir",
+      "Desolado Espacial": "Space Race",
+      "Dente-de-Sabre": "Tooth Fairy",
+      "Cyber Segurança": "Cyber Security",
+      "Asimov": "Asiimov",
+      "Evil Daimyo": "Evil Daimyo",
+      "Hellfire": "Hellfire"
+    },
+    "AWP": {
+      "Contenção": "Containment Breach",
+      "Homem-Lagarto": "Wildfire",
+      "Aterrissagem Forçada": "Crash Landing",
+      "Fada Dríade": "Duality",
+      "Asimov": "Asiimov",
+      "Luz das Trevas": "Dark Light",
+      "Oni Taiji": "Oni Taiji",
+      "Hiperfera": "Hyper Beast",
+      "Homem de Ferro": "Iron Man",
+      "Medusa": "Medusa",
+      "Dragão Lore": "Dragon Lore"
+    },
+    "Desert Eagle": {
+      "Código Vermelho": "Code Red",
+      "Chama Azul": "Blue Flame",
+      "Esmeralda Jörmungandr": "Emerald Jörmungandr",
+      "Printstream": "Printstream",
+      "Oceano Profundo": "Ocean Drive",
+      "Kumicho Dragon": "Kumicho Dragon",
+      "Conspiracy": "Conspiracy"
+    },
+    "USP-S": {
+      "Neo-Noir": "Neo-Noir",
+      "Matiz": "Target Acquired",
+      "Monstro Blueprint": "Monster Mashup",
+      "Printstream": "Printstream",
+      "Orion": "Orion",
+      "Kill Confirmed": "Kill Confirmed"
+    }
+  },
+  "wear": {
+    "Nova de Fábrica": "Factory New",
+    "Pouco Usada": "Minimal Wear",
+    "Testada em Campo": "Field-Tested",
+    "Bem Desgastada": "Well-Worn",
+    "Veterana de Guerra": "Battle-Scarred"
+  }
+}
