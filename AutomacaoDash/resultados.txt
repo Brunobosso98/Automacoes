@@ -1,12 +1,24 @@
-Item: AK-47 | Baroque Purple (Minimal Wear)
-Preço no site: R$ 41.00
-Preço MarketCSGO: R$ 48.19
-Diferença: 17.54%
+Item: P250 | Asiimov (Battle-Scarred)
+Preço no site: R$ 12.50
+Preço MarketCSGO: R$ 14.00
+Diferença: 11.98%
 --------------------------------------------------
 
-Item: AK-47 | Safety Net (Battle-Scarred)
-Preço no site: R$ 13.88
-Preço MarketCSGO: R$ 16.79
-Diferença: 20.95%
+Item: Souvenir Glock-18 | Pink DDPAT (Field-Tested)
+Preço no site: R$ 14.00
+Preço MarketCSGO: R$ 15.72
+Diferença: 12.29%
+--------------------------------------------------
+
+Item: P90 | Asiimov (Field-Tested)
+Preço no site: R$ 39.00
+Preço MarketCSGO: R$ 43.70
+Diferença: 12.06%
+--------------------------------------------------
+
+Item: MP9 | Hydra (Battle-Scarred)
+Preço no site: R$ 24.00
+Preço MarketCSGO: R$ 29.52
+Diferença: 23.00%
 --------------------------------------------------
 
