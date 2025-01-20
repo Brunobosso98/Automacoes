@@ -45,10 +45,10 @@ for linha in tabela.index:
   wait.until(EC.presence_of_element_located((By.ID, "preco_unitario"))).send_keys(preco_unitario)
   wait.until(EC.presence_of_element_located((By.ID, "custo"))).send_keys(custo)
   
-  if obs.strip() != "":
+  if not pd.isna(tabela.loc[linha, "obs"]) and str(tabela.loc[linha, "obs"]).strip() != "":
       wait.until(EC.presence_of_element_located((By.ID, "obs"))).send_keys(obs)
 
-  time.sleep(2)
+  time.sleep(1)
 
   botao_enviar = wait.until(EC.element_to_be_clickable((By.ID, "pgtpy-botao")))
   botao_enviar.click()

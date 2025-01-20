@@ -14,7 +14,7 @@ driver = webdriver.Chrome()
 
 wait = WebDriverWait(driver, 10)
 
-driver.get("https://dashskins.com.br/deals?min=&max=&search=&item_type=&rarity=&itemset=&exterior=&weapon=&has_sticker=&has_charm=&has_stattrak=&is_souvenir=&is_instant=&limit=&page=4")
+driver.get("https://dashskins.com.br/deals?min=&max=&search=&item_type=&rarity=&itemset=&exterior=&weapon=&has_sticker=&has_charm=&has_stattrak=&is_souvenir=&is_instant=&limit=&page=1")
 
 # botao_login = wait.until(EC.presence_of_element_located((By.XPATH, '//*[@id="__layout"]/div/nav/div/div[2]/div[2]/div')))
 # botao_login.click()

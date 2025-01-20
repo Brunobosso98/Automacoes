@@ -1,24 +1,48 @@
+Item: USP-S | The Traitor (Battle-Scarred)
+Preço no site: R$ 45.00
+Preço MarketCSGO: R$ 50.21
+Diferença: 11.59%
+--------------------------------------------------
+
+Item: Sticker | Astralis (Holo) | Antwerp 2022
+Preço no site: R$ 7.00
+Preço MarketCSGO: R$ 7.72
+Diferença: 10.31%
+--------------------------------------------------
+
+Item: Sticker | Astralis (Holo) | Antwerp 2022
+Preço no site: R$ 7.00
+Preço MarketCSGO: R$ 7.72
+Diferença: 10.31%
+--------------------------------------------------
+
+Item: Sticker | Astralis (Holo) | Antwerp 2022
+Preço no site: R$ 7.00
+Preço MarketCSGO: R$ 7.72
+Diferença: 10.31%
+--------------------------------------------------
+
+Item: Sticker | Astralis (Holo) | Antwerp 2022
+Preço no site: R$ 7.00
+Preço MarketCSGO: R$ 7.72
+Diferença: 10.31%
+--------------------------------------------------
+
 Item: P250 | Asiimov (Battle-Scarred)
-Preço no site: R$ 12.50
-Preço MarketCSGO: R$ 14.00
-Diferença: 11.98%
+Preço no site: R$ 12.00
+Preço MarketCSGO: R$ 14.23
+Diferença: 18.55%
 --------------------------------------------------
 
-Item: Souvenir Glock-18 | Pink DDPAT (Field-Tested)
-Preço no site: R$ 14.00
-Preço MarketCSGO: R$ 15.72
-Diferença: 12.29%
+Item: Souvenir Glock-18 | Pink DDPAT (Well-Worn)
+Preço no site: R$ 13.76
+Preço MarketCSGO: R$ 15.43
+Diferença: 12.15%
 --------------------------------------------------
 
-Item: P90 | Asiimov (Field-Tested)
-Preço no site: R$ 39.00
-Preço MarketCSGO: R$ 43.70
-Diferença: 12.06%
---------------------------------------------------
-
-Item: MP9 | Hydra (Battle-Scarred)
-Preço no site: R$ 24.00
-Preço MarketCSGO: R$ 29.52
-Diferença: 23.00%
+Item: UMP-45 | Full Stop (Battle-Scarred)
+Preço no site: R$ 5.38
+Preço MarketCSGO: R$ 7.11
+Diferença: 32.16%
 --------------------------------------------------
 
