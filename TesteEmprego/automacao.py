@@ -47,11 +47,23 @@ botao_lancamento = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[@id="ac
 botao_lancamento.click()
 time.sleep(6)
 
+# # Lendo a planilha Excel
+# planilha = pd.read_excel("caminho/para/sua/planilha.xlsx")
+
+# # Exemplo: pegando datas da planilha
+# data_inicial = planilha['Data_Inicial'][0]  # Primeira linha da coluna Data_Inicial
+# data_final = planilha['Data_Final'][0]      # Primeira linha da coluna Data_Final
+
+# # Formatando as datas para o formato dd/mm/yyyy
+# data_inicial = data_inicial.strftime('%d/%m/%Y')
+# data_final = data_final.strftime('%d/%m/%Y')
+
+# Usando as datas da planilha no preenchimento dos campos
 campo_data = wait.until(EC.presence_of_element_located((By.ID, 'initialDate')))
 campo_data.send_keys("01/12/2024")
 
 campo_data = wait.until(EC.presence_of_element_located((By.ID, 'finalDate')))
-campo_data.send_keys("05/01/2025")
+campo_data.send_keys(data_final)
 time.sleep(6)
 
 botao_processar = wait.until(EC.presence_of_element_located((By.ID, 'seeTransactions')))
