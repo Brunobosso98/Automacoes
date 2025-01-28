@@ -1,1 +1,1 @@
-Repositório destina a automações utilizando python e javascript.
+Repositório profissional destina a automações utilizando python e javascript.
